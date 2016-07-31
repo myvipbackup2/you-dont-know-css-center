@@ -24,7 +24,7 @@
 	margin: 0 auto;
 }
 ```
-##### 例子：[传送门]https://github.com/zhangxiangliang/you-dont-know-css-center/blob/master/Horizontally/02-block.html()
+##### 例子：[传送门](https://github.com/zhangxiangliang/you-dont-know-css-center/blob/master/Horizontally/02-block.html)
 ##### 注意：不能是一个浮动的块级元素哦~
 
 ### 多个 - 块级元素 - 同行居中
